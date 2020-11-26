@@ -6,7 +6,7 @@ package buildtags
 import (
 	"fmt"
 
-	"github.com/cheekybits/genny/generic"
+	"github.com/cychiuae/genny/generic"
 )
 
 type _t_ generic.Type

@@ -1,6 +1,6 @@
 package bugreports
 
-import "github.com/cheekybits/genny/generic"
+import "github.com/cychiuae/genny/generic"
 
 // X is the type generic type used in tests
 type X generic.Type

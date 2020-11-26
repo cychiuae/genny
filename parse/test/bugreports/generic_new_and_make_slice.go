@@ -1,6 +1,6 @@
 package bugreports
 
-import "github.com/cheekybits/genny/generic"
+import "github.com/cychiuae/genny/generic"
 
 // NumberType will be replaced in tests
 type NumberType generic.Number
